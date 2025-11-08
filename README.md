@@ -3,4 +3,3 @@ The overall aim of this unit is to learn the fundamentals of Object Oriented Des
 ### For week 1-11 weekly task, I continue to solve it in the same folder and do not make a new one. So if you only need, for example, the MyRectangle.cs file, then just copy the code instead of downloading the whole folder. 
 ### **This course requires a lot of basic understanding of C#; therefore, my reports and codes are only reference resources! Don't copy the whole thing if you have 0 clue what it's about!*
 ### **For Swinburne people, your Unit Tutor will have a different weekly verification task than my tutor, so please only take the necessary code file and do not take the whole thing and submit it to your tutor!*
-### **Do not attempt to copy my work in any way, your Convenor or Tutor of the Unit will know!*
