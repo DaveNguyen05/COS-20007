@@ -1,0 +1,14 @@
+D:\School Work\COS-20007\Labs\Week-7\bin\Debug\net9.0\Week_7.exe
+D:\School Work\COS-20007\Labs\Week-7\bin\Debug\net9.0\Week_7.deps.json
+D:\School Work\COS-20007\Labs\Week-7\bin\Debug\net9.0\Week_7.runtimeconfig.json
+D:\School Work\COS-20007\Labs\Week-7\bin\Debug\net9.0\Week_7.dll
+D:\School Work\COS-20007\Labs\Week-7\bin\Debug\net9.0\Week_7.pdb
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\Week_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\Week_7.AssemblyInfoInputs.cache
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\Week_7.AssemblyInfo.cs
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\Week_7.csproj.CoreCompileInputs.cache
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\Week_7.dll
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\refint\Week_7.dll
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\Week_7.pdb
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\Week_7.genruntimeconfig.cache
+D:\School Work\COS-20007\Labs\Week-7\obj\Debug\net9.0\ref\Week_7.dll
